@@ -1,0 +1,17 @@
+[
+  {
+    "Name of the Hospital": "Ananthapuri Hospital",
+    "Patient count": 500,
+    "Location": "Tvm"
+  },
+  {
+    "Name of the Hospital": "KIMS",
+    "Patient count": 400,
+    "Location": "Tvm"
+  },
+  {
+    "Name of the Hospital": "Aster",
+    "Patient count": 300,
+    "Location": "Kochi"
+  }
+]
